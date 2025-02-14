@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\arthu\\source\\repos\\CdbCalc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D14828-7210-4342-884A-B1B7DB987D56}|CdbCalc\\CdbCalc.csproj|c:\\users\\arthu\\source\\repos\\cdbcalc\\cdbcalc\\models\\cdbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D14828-7210-4342-884A-B1B7DB987D56}|CdbCalc\\CdbCalc.csproj|solutionrelative:cdbcalc\\models\\cdbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D14828-7210-4342-884A-B1B7DB987D56}|CdbCalc\\CdbCalc.csproj|c:\\users\\arthu\\source\\repos\\cdbcalc\\cdbcalc\\models\\cdbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D14828-7210-4342-884A-B1B7DB987D56}|CdbCalc\\CdbCalc.csproj|solutionrelative:cdbcalc\\models\\cdbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D14828-7210-4342-884A-B1B7DB987D56}|CdbCalc\\CdbCalc.csproj|c:\\users\\arthu\\source\\repos\\cdbcalc\\cdbcalc\\cdbcalc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3D14828-7210-4342-884A-B1B7DB987D56}|CdbCalc\\CdbCalc.csproj|solutionrelative:cdbcalc\\cdbcalc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CdbResponse.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\CdbCalc\\CdbCalc\\Models\\CdbResponse.cs",
+              "RelativeDocumentMoniker": "CdbCalc\\Models\\CdbResponse.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\CdbCalc\\CdbCalc\\Models\\CdbResponse.cs",
+              "RelativeToolTip": "CdbCalc\\Models\\CdbResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:40:16.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CdbRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\CdbCalc\\CdbCalc\\Models\\CdbRequest.cs",
+              "RelativeDocumentMoniker": "CdbCalc\\Models\\CdbRequest.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\CdbCalc\\CdbCalc\\Models\\CdbRequest.cs",
+              "RelativeToolTip": "CdbCalc\\Models\\CdbRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:39:02.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CdbCalc",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\CdbCalc\\CdbCalc\\CdbCalc.csproj",
+              "RelativeDocumentMoniker": "CdbCalc\\CdbCalc.csproj",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\CdbCalc\\CdbCalc\\CdbCalc.csproj",
+              "RelativeToolTip": "CdbCalc\\CdbCalc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T20:36:21.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
